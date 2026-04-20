@@ -1,0 +1,12 @@
+{
+  "name": "WildGuard: Animal Behavior AI",
+  "description": "An AI-powered system for species detection and behavioral analysis using computer vision and research-based insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Computer Vision",
+    "Behavioral Analysis",
+    "Video Processing"
+  ]
+}
